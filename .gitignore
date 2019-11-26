@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor/JetBrains/
+.idea/
+.vs
+.vscode
+Library
+obj
+Packages
+Temp
